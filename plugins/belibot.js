@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *Permanen* : *Rp 40000*
 ╠➥ *Owner* :   *Rp 30000*/bln
 ╠➥ *Nomer Gopay & pulsa* : 
-║    085730903853
+║    085249231619
 ╠═〘 PEMBAYARAN 〙 ═
 ╠➥ Dana Dan Pulsa
 ║
@@ -15,7 +15,7 @@ let handler = async (m, { conn }) => {
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
 ╠═ ©2021 Rpg wabot-aq
-╠═ Scrip original by Nurutomo
+╠═ Halo ara bot sini selamat ketik menu untuk memulai bot
 ╠═〘 AlyaaXzy 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
