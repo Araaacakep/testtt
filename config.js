@@ -47,7 +47,7 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'Alyastephani_'
-namagithub = 'Botwa021'
+namagithub = 'Arackp_'
 kasihcaption = `Follow Ig @alyastephanie_`
 namakontak1 = 'Tamim'
 namakontak2 = 'Tata (Owner)'
