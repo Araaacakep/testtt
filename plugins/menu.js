@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
     before: `
-┏━━〔 ${namabot} 〕━⬣
+┏━━〔 Arabot 〕━⬣
 ┃⬡ Hai, %name!
 ┃
 ┃⬡ Tersisa %limit Limit
@@ -26,7 +26,7 @@ const defaultMenu = {
 ┃⬡ Uptime: %uptime (%muptime)
 ┃⬡ Database: %rtotalreg dari %totalreg
 ┃⬡ Instagram
-┃⬡ https://instagram.com/mursid.st
+┃⬡ https://instagram.com/alyastephanie_
 ┃
 ┗━━━━━━⬣`.trimStart(),
     header: '┏━━〔 %category 〕━⬣',
