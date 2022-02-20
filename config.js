@@ -14,9 +14,9 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/HXXTNMIjz5oBeIYdarMJG5', ''] // ganti jadi group lu
+global.owner = ['6285249231619','6285709141480'] // Put your number here //owner eval
+global.kontak = ['6485249231619','6285709141480'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -46,23 +46,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'mursid.st'
+namaig = 'Alyastephani_'
 namagithub = 'Botwa021'
-kasihcaption = `Follow Ig @mursid.st`
-namakontak1 = '🐼🔥'
-namakontak2 = 'Mursid (Owner)'
+kasihcaption = `Follow Ig @alyastephanie_`
+namakontak1 = 'Tamim'
+namakontak2 = 'Tata (Owner)'
 
 //kasihcaption = `Follow Ig @mursid.st`
 
 // Sticker WM
-global.packname = 'MursidXzy' // ganti aja
-global.author = 'WhatsApp Bot' // ganti aja
+global.packname = 'Arabot' // ganti aja
+global.author = 'Ara' // ganti aja
 
 //yyy
 bc = 'MursidXzy' //MursidXzy Broadcast
 footer = `\n©wabot-aq`
-namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+namabot = `Arabot-new!`
+namalu = 'amrita'
 
 
 // 
