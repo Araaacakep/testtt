@@ -1,6 +1,6 @@
 const contacts = [
-  ['6288233832771', ' Mursid S'],
-  ['6289612698583', ' Nomer Bot'],
+  ['6285249231619', ' owner ara/bot ara'],
+  ['6285709141480', ' teman'],
 ]
 function handler(m) {
   m.reply('Ada perlu apa kak cari owner?, chat *P* tidak akan di balas')
