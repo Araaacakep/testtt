@@ -1,19 +1,19 @@
 let handler  = async (m, { conn, usedPrefix }) => { 
 conn.reply(m.chat, `
 ╭─˗ˏˋ *Informasi Owner* ´ˎ˗
-│ ✎ _Nama_ : Mursid S
-│ ✎ _Sekolah_ : SMKN 2 Wonosari
-│ ✎ _Umur_ : 17
-│ ✎ _Asal_ : Yogyakarta
-│ ✎ _Status_ : Pelajar SMK
+│ ✎ _Nama_ : Aracakep
+│ ✎ _Sekolah_ : -
+│ ✎ _Umur_ : 14
+│ ✎ _Asal_ : kutai barat
+│ ✎ _Status_ : Pelajar 
 │ ✎ _Official Grup 1_ :
-│    https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau
+│    https://chat.whatsapp.com/HXXTNMIjz5oBeIYdarMJG5
 │ ✎ _Official Grup 2_ :
-│    https://chat.whatsapp.com/HjRHck1G3WRHOx97fJkdMN
+│    https://chat.whatsapp.com/HRdnYLYBxOC8RoBlXs5EIV
 │ ✎ _Instagram_ : 
-│    instagram.com/mursid.st
+│    instagram.com/Alyastephani_
 │ ✎ _WhatsApp_ :
-│    wa.me/6288233832771
+│    wa.me/6285249231619
 ╰‿‿‿‿‿‿‿‿
 `.trim(), m)
 }
