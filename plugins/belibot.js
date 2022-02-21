@@ -15,7 +15,7 @@ let handler = async (m, { conn }) => {
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
 ╠═ ©2021 Rpg wabot-aq
-╠═ Halo ara bot sini selamat ketik menu untuk memulai bot
+╠═ Script original
 ╠═〘 AlyaaXzy 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
